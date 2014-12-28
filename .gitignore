@@ -1,2 +1,5 @@
 license.txt
 readme.html
+.settings/
+.project
+.buildpath
